@@ -1,3 +1,3 @@
 # python
-some basic python programs
+Python programs
 and projects
