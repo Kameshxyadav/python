@@ -1,2 +1,3 @@
-# basicpython
-some basic pyhton programs
+# python
+some basic python programs
+and projects
